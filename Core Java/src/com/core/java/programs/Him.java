@@ -29,6 +29,7 @@ public class Him {
 	public static void main(String[] args) {
 		int a=temp(100,90,200);
 		System.out.println(a);
+		System.out.println("Hello");
 	}
 
 }
