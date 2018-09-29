@@ -14,11 +14,13 @@ public class Template {
 		{
 			itr.next();
 		}
+		int[] array = null;
 		for (int i = 0; i < array.length; i++) {
 			
 		}
 		
 		
+		String[] stArr = null;
 		String[] s=listStr.toArray(stArr);
 		for (String string : s) {
 		}
