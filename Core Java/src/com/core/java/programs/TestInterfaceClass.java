@@ -12,7 +12,7 @@ public class TestInterfaceClass implements com.core.java.Interfaces.TestInterfac
 	
 	public static void main(String[] args) {
 		
-		//Normal Implementation of Interface
+		//Normal Implementation of Interface using anonymous class
 		TestInterface t=new TestInterfaceClass() {
 			@Override
 			public String getName(String fName, String sName) {
